@@ -22,6 +22,4 @@ src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&lo
   
 </div>
 
-![isadorasfelix's Stats](https://github-readme-stats.vercel.app/api?username=isadorasfelix&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-
-![isadorasfelix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isadorasfelix&theme=highcontrast&hide_border=true)
+![isadorasfelix's Stats](https://github-readme-stats.vercel.app/api?username=isadorasfelix&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) ![isadorasfelix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isadorasfelix&theme=midnight-purple&hide_border=true)
