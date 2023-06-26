@@ -2,12 +2,12 @@ Hello World 😊
 
 - 🔭 Analista de Backoffice @ CAF.io
 - 🌱 Estudante de Ciência de Dados e Machine Learning
-- ⚡ Hobbie: ilustrar no @zu.izi
+- ⚡ No tempo livre faço ilustrações no @zu.izi
 
 <div align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Isa-Py" height="30" width="40"                   
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+    <img align="center" alt="Isa-Py" height="30" width="80"                   
+  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     <img align="center" alt="Isa-MySQL" height="30" width="80" 
   src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
