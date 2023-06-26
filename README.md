@@ -21,3 +21,7 @@ src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&lo
   <a href="https://instagram.com/zu.izi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
+
+![isadorasfelix's Stats](https://github-readme-stats.vercel.app/api?username=isadorasfelix&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+
+![isadorasfelix's Streak](https://github-readme-streak-stats.herokuapp.com/?user=isadorasfelix&theme=highcontrast&hide_border=true)
