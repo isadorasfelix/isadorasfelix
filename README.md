@@ -1,27 +1,24 @@
+# Olá, sou Isadora 🌱
+
+## Sobre mim:
+
+- 📚 Formação em Engenharia de Produção;
+- 👨‍💻 Em transição de carreira para a área de Dados.
+- 🖌️ Nas horas vagas faço ilustrações no @zu.izi
+
+## Experiência:
+- 📖 Trabalho atualmente como Analista de Backoffice, mas já atuei como Analista de Prevenção à Fraude.
+
+## Tecnologias:
+- 💻 Linguagens de programação: Python.
+- 🗃️ Banco de dados: MySQL.
+- 🧰 Ferramentas de Desenvolvimento: Visual Studio, Visual Studio Code, Jupyter Notebook, Google colab.
+
+## Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/isadorasfelix/)  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/zu.izi/)
 
 
-- 🌱 Estudante de Ciência de Dados e Machine Learning
-- ⚡ No tempo livre faço ilustrações no @zu.izi
-
-<div align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Isa-Py" height="30" width="80"                   
-  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-    <img align="center" alt="Isa-MySQL" height="30" width="80" 
-  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-
-  </div>
-</div>
-
-##
-
-<div align="center"> 
-
-  <a href = "mailto:felix.silva.isadora@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isadorasfelix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/zu.izi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-</div>
 <div align="center"> 
   
 <!--
