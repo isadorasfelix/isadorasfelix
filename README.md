@@ -1,6 +1,5 @@
-Hello World 😊
 
-- 🔭 Analista de Backoffice @ CAF.io
+
 - 🌱 Estudante de Ciência de Dados e Machine Learning
 - ⚡ No tempo livre faço ilustrações no @zu.izi
 
