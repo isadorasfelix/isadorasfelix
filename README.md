@@ -12,7 +12,7 @@
 ## Tecnologias:
 - 💻 Linguagens de programação: Python.
 - 🗃️ Banco de dados: MySQL.
-- 🧰 Ferramentas de Desenvolvimento: Visual Studio, Visual Studio Code, Jupyter Notebook, Google colab.
+- 🧰 Ferramentas de Desenvolvimento: Visual Studio Code, Jupyter Notebook, Google Colab.
 
 ## Conecte-se comigo:
 
