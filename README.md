@@ -4,8 +4,7 @@
 ## Sobre mim:
 
 - 📚 Formação em Engenharia de Produção;
-- 👨‍💻 Em transição de carreira para a área de Dados.
-- 🖌️ Nas horas vagas faço ilustrações no @zu.izi
+- 🖌️ Ilustradora nas horas vagas.
 
 ## Experiência:
 - 📖 Trabalho atualmente como Analista de Backoffice, mas já atuei como Analista de Prevenção à Fraude.
